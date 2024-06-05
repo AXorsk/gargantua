@@ -1,2 +1,4 @@
 # gargantua
-An splendid javascript black-hole simulator
+A splendid javascript black-hole simulator
+
+imitate Gargantua BH in _Interstellar_
