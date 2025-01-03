@@ -30,8 +30,8 @@ export default class BlackHole
     setCommonUniforms()
     {
         this.commonUniforms = {}
-        this.commonUniforms.uInnerColor = { value: new THREE.Color('#ff8080') }
-        this.commonUniforms.uOuterColor = { value: new THREE.Color('#3633ff') }
+        this.commonUniforms.uInnerColor = { value: new THREE.Color('#ffff88') }
+        this.commonUniforms.uOuterColor = { value: new THREE.Color('#ff3300') }
 
         // Debug
         if(this.debug.active)
